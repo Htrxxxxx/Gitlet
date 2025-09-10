@@ -10,9 +10,7 @@
 - **add** — Stage one or more files for the next commit  
 - **commit** — Record a snapshot with a descriptive message  
 - **log** — Display the project’s commit history  
-- **branch** — Create and list branches  
-- **checkout** — Restore files or switch branches  
-- **merge** — Integrate changes from another branch  
+- **checkout** — Restore files or switch branches   
 - **SHA-1 Hashing** — Unique identifiers for commits  
 - **Custom Storage** — Uses its own `.gitlet/` folder structure  
 
